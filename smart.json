@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "iron-router": {
+      "git": "git@github.com:EventedMind/iron-router.git",
+      "tag": "v0.8.2"
+    },
+    "jade": {
+      "git": "git@github.com:mquandalle/meteor-jade.git",
+      "tag": "v0.2.6"
+    }
+  }
+}
